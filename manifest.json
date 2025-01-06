@@ -13,7 +13,8 @@
     "storage"
   ],
   "host_permissions": [
-    "https://*.onrender.com/*"
+    "https://*.onrender.com/*",
+    "https://*.amazon.com.tr/*"
   ],
   "action": {
     "default_popup": "popup.html",
